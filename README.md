@@ -1,6 +1,9 @@
 # To-Do List Application (SPA)
 
-![To-Do App Banner] 
+ To-Do App Banner
+ ----------------
+
+ 
 ![to-do](https://github.com/user-attachments/assets/0818eddf-3cdc-4330-9652-5a7f3f194f89)
 
 ## Table of Contents
